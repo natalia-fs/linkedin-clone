@@ -15,42 +15,35 @@ const TrendingPanel: React.FC = () => {
             <span className="bullet" />
             <span className="news">
               <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="subtext">há 1 d • 1024 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Cursos de desenvolvimento Web</span>
+              <span className="subtext">há 1 d • 256 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Dicas para se destacar no seu estágio</span>
+              <span className="subtext">há 2 d • 512 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Next Level Week #2 da Rocketseat</span>
+              <span className="subtext">há 4 d • 256 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
-            </span>
-          </li>
-          <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Aperfeiçoe seu currículo!</span>
+              <span className="subtext">há 7 h • 128 leitores</span>
             </span>
           </li>
         </ul>

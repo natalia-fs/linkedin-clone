@@ -18,6 +18,8 @@ export const Container = styled.div`
 
     display: flex;
     margin: -38px auto 12px;
+
+    cursor: pointer;
   }
   h1 {
     font-size: 16px;
